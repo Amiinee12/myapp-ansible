@@ -4,7 +4,7 @@ pipeline {
  
  stage('Recupération du projet') { 
  steps { 
- git 'https://github.com/Amiine12/myapp-ansible.git' 
+ git 'https://github.com/Amiinee12/myapp-ansible.git' 
  } 
  } 
  
